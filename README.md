@@ -3,7 +3,7 @@ This repository contains screenshots and basic analysis of network traffic captu
 ## 📸 Screenshots and Descriptions
 
 ### Pic 1 – HTTP Packet Filtering
-[![Pic 1](Screenshot 2026-02-08 165100.png)](Screenshot 2026-02-08 165100.png)  
+[![Screenshot 2026-02-08 165100](Screenshot 2026-02-08 165100.png)](Screenshot 2026-02-08 165100.png)  
 Shows Wireshark with the `http` display filter applied, displaying only HTTP packets captured during web browsing activity.
 
 ### Pic 2 – HTTP Stream Analysis
